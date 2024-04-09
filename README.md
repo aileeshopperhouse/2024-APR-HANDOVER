@@ -1,5 +1,5 @@
 # Analytics 
-Ezra님, joon님 인수인계 자료입니다 (last updated : 04.09.24)
+Ezra님, joon님 인수인계 자료입니다 (last updated : 09.APR.24)
 
 ### 📂 1. Crawler
 크롤러 관련 코드입니다. 
