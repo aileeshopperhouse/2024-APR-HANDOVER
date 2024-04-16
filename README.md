@@ -4,7 +4,7 @@ Ezra님, joon님 인수인계 자료입니다 (last updated : 09.APR.24)
 ### 📂 1. Crawler
 크롤러 관련 코드입니다. 
 
-* 관련 노션 
+* 관련 노션 [링크](https://www.notion.so/c9dad71c09ac4d6786d08d118772cd5e?pvs=4)
 
 ### 📂 2. Imputer
 전처리 과정 코드입니다. 
